@@ -1,0 +1,12 @@
+{
+  "name": "santactf-prod-app",
+  "version": "1.0.0",
+  "description": "Santa CTF production app",
+  "main": "src/server.js",
+  "scripts": {},
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "fastify": "^2.11.0"
+  }
+}
